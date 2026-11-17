@@ -2,6 +2,8 @@
 
 Proyecto desarrollado con **HTML, CSS y JavaScript puro**, aplicando manipulación del DOM y persistencia con LocalStorage.
 
+**[Ver demo en vivo](https://rich4rdx.github.io/test-carrito/)**
+
 ---
 
 ## 🚀 Descripción
